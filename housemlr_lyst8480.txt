@@ -1,0 +1,40 @@
+Detailed explanation to AI & ML
+by Tejas Kolhatkar
+25/03/2022
+Detailed explanation to AI & ML
+Score of how we function depends on human intelligence. Starting from the bottles we drink water from to the laptops we work on, all have an applied human intelligence. 
+Artificial Intelligence
+Over time, development in technology has helped humans save an immense amount of effort. Efforts that usually would get put into coming up with more advanced technologies, got replaced. This replacement of human intelligence got termed as, ‘Artificial Intelligence’. Or how many know it as, ‘Robotics’. 
+ 
+Definition 
+Artificial Intelligence has grown massively in recent years. While it contains sub-fields of its own, it is divided into three categories - 
+Weak AI 
+General AI 
+Strong AI
+While only the first two have been implemented, the first two are working towards creating the third category for Artificial Intelligence. 
+ 
+Explanation 
+There is little or no comparison made in between weak and general Artificial Intelligence. Both can simulate human behavior based on the complex algorithms set deep within. They can solve hypothetical problems only up to a level, but only when they come with definitive figures. 
+ 
+Strong AI is still under processing, but once it is introduced, it will have a mind of its own. From being able to solve problems of its own, based on its own intelligence to curating easy breakthroughs for complex issues; it will know all. It is said to surpass human intelligence. 
+ 
+Job Opportunities
+Based on the same, the job offers adhering to the information posted above, have increased by the ton. With assured job security, these jobs are equally well-paying. The job posting particularly termed as, ‘Engineer’, has a specific task in which the engineers have to come up with new and innovative solutions for technological equipment in order to get them up to a level of human intelligence. 
+ 
+Conclusion
+With the recent boom in job requirements related to Artificial Intelligence, courses in which interested individuals can learn about it have also grown multi-fold. This profession has jumped up to be the most promising. In both, career and technology advancement. 
+ 
+Therefore, while this is the most preferred sector for every engineering student in engineering, it is also most dependent upon all other sectors of industries. The job requirements will only keep on rising because expectations will only keep on increasing. 
+ 
+Machine Learning 
+ 
+Definition
+Machine Learning is said to be a sub-context to artificial intelligence. It is a conceptualisation curated under a study initiated for Artificial Intelligence. It derives the data for any artificially intelligent system/device. It is said that AI and M. Learning are interconnected. 
+While a secondary system to the human brain, i.e artificial intelligence, solves and finds solutions to complex problems, Machine Learning comes up with compilation of necessary data regarding the same solution that solves problems. 
+Yes, Machine Learning is a step taking Artificial Intelligence closer to finding a solution. 
+ 
+Job Opportunities 
+Being similar to how Artificial Intelligence is, Machine Learning has almost similar job expectations from engineers. So, while the criterias, demands and job postings remain the same, job titles change when it comes to engineers seeking for Machine Learning related work. 
+ 
+Conclusion 
+With the dependability on both Machine Learning and Artificial Intelligence increasing and becoming consistent, the security in such jobs has only inclined in recent years. So, if anything, engineers can trust ML and AI for having a secure future in terms of engineering. 
